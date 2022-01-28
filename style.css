@@ -1,0 +1,14 @@
+.jumbotron {
+  background-color: #f0e68c;
+}
+#project {
+  background-color: #f0e68c;
+}
+#contact {
+  background-color: #f0e68c;
+}
+.contact {
+  text-decoration: none;
+  color: black;
+  font-size: 1rem;
+}
